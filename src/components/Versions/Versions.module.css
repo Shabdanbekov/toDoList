@@ -1,0 +1,22 @@
+.back button {
+  text-decoration: none;
+  background-color: rgb(56, 56, 236);
+  color: white;
+  width: 70px;
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 90%;
+}
+.container {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: purple;
+}
+
+@media (max-width: 480px) {
+  .back {
+    margin-left: 10px;
+  }
+}

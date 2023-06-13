@@ -1,0 +1,9 @@
+.mobile {
+  text-decoration: none;
+  background-color: rgb(56, 56, 236);
+  color: white;
+  width: 70px;
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 90%;
+}
